@@ -16,3 +16,27 @@ Github should be used to store each practical. Practical 01 will be stored in su
 Sign into GitHub or create a new account. After completing sign-in process create a private repository. Set repository access to Private as show in image below.
 
 ![Create Repo](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/create_repo.png)
+On creation of the repository a page similar to the one shown below will be displayed.
+
+If you are already familiar with GitHub follow the instructions as shown, if not continue to the next steps.
+
+![Repo Created](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/repo_created.png)
+## Start GitBash
+
+Start **GitBash** or install [GitBash](https://git-scm.com/downloads) if it is not already installed on your computer. Navigate to the C drive on your system and create a projects directory.
+
+The following are common commands within GitBash Terminal.
+
+| Command   | Function                                              |
+| --------- | ----------------------------------------------------- |
+| **ls**    | Lists a directory’s content                           |
+| **pwd**   | Shows the current working directory’s path            |
+| **cd**    | Changes the working directory                         |
+| **mkdir** | Creates a new directory                               |
+| **rm**    | Deletes a file                                        |
+| **cp**    | Copies files and directories, including their content |
+| **mv**    | Moves or renames files and directories                |
+| **touch** | Creates a new empty file                              |
+| **file**  | Checks a file’s type                                  |
+
+![Create Directory](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/create_projects_dir.png)
