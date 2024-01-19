@@ -47,3 +47,31 @@ Change directory to `projects` directory and clone repository. Use the git clone
 ![Clone Repo](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/clone_repo.png)
 ![Clone Repo Login](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/clone_repo_login.png)
 ![Clone Repo Login](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/clone_repo_confirmed.png)
+## Make Practical Directory 
+
+When in directory `Assembly_and_C` use the following command to create a sub-directory `PRACTICAL_01`.
+```
+mkdir PRACTICAL_01
+```
+Check that the directory is created properly by listing the directory contents using the `ls` command.
+
+![Check directory contents](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/ls_command.png)
+
+## Complete Practical Files
+
+Complete each step of the practical creating and saving files as specified. Save these files in the PRACTICAL_## directory. Example below.
+
+![Practical files](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/complete_practical_files.png)
+## Commit Files to GitHub
+
+While in the root of your GitHub project complete an `add`, `git commit` and `git push` as shown below.
+
+```
+git add .
+git commit -am "Practical 01"
+git push
+```
+
+![Git Add](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/git_add.png)
+![Git Push](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/git_push.png)
+## Update a Spreadsheet
