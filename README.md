@@ -23,7 +23,7 @@ If you are already familiar with GitHub follow the instructions as shown, if not
 ![Repo Created](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/repo_created.png)
 ## Start GitBash
 
-Start **GitBash** or install [GitBash](https://git-scm.com/downloads) if it is not already installed on your computer. Navigate to the C drive on your system and create a projects directory.
+Start **GitBash** or install [GitBash](https://git-scm.com/downloads) if it is not already installed on your computer. Navigate to the C drive on your system and create a `projects` directory.
 
 The following are common commands within GitBash Terminal.
 
@@ -40,3 +40,10 @@ The following are common commands within GitBash Terminal.
 | **file**  | Checks a file’s type                                  |
 
 ![Create Directory](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/create_projects_dir.png)
+## Clone Repository
+
+Change directory to `projects` directory and clone repository. Use the git clone command with the url shown when repository was created.
+
+![Clone Repo](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/clone_repo.png)
+![Clone Repo Login](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/clone_repo_login.png)
+![Clone Repo Login](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/clone_repo_confirmed.png)
