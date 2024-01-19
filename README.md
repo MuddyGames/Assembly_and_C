@@ -62,6 +62,10 @@ Check that the directory is created properly by listing the directory contents u
 Complete each step of the practical creating and saving files as specified. Save these files in the PRACTICAL_## directory. Example below.
 
 ![Practical files](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/complete_practical_files.png)
+Create and save individual practical files.
+
+![Create files](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/create_files.png)
+
 ## Commit Files to GitHub
 
 While in the root of your GitHub project complete an `add`, `git commit` and `git push` as shown below.
@@ -74,4 +78,21 @@ git push
 
 ![Git Add](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/git_add.png)
 ![Git Push](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/git_push.png)
+## Share Repository
+
+Add **muddygames** and other lab supervisors as collaborators.
+
+![Share Repository](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/muddy_games.png)
+
 ## Update a Spreadsheet
+
+Update the spreadsheet ensuring the correct Practical Directory is linked in the spreadsheet.
+
+![Spreadsheet](https://github.com/MuddyGames/Assembly_and_C/blob/main/images/update_spreadsheet.png)
+E.g 
+
+PRACTICAL_01 the URL would be 
+`https://github.com/MuddyGames/Assembly_and_C/tree/main/PRACTICAL_01`
+
+PRACTICAL_02 the URL would be 
+`https://github.com/MuddyGames/Assembly_and_C/tree/main/PRACTICAL_02`
